@@ -1,1 +1,16 @@
-
+pycryptodome
+requests
+cryptography
+pyinstaller
+math
+binascii
+re
+signal
+datetime
+wienerAttack
+gcd
+fractions
+sympy
+partialKnownMessageSage
+hastadsSage
+solve
